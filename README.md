@@ -1,4 +1,4 @@
-# _My First Webpage_
+# _Resort Hotel Webpage_
 
 #### _A webpage made for a fictional hotel resort as part of Epicodus's Intro to Programming course (week1), Jan. 3, 2018_
 
