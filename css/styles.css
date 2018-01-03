@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+body {
+  font-style: Helvetica;
+  font-size: 20px;
+  background-color: #42f4eb;
+}
+
+p {
+    text-align: center;
+    color: #040a87;
+}
+
+img {
+  width: 350px;
+  display: block;
+  margin: auto;
+}
